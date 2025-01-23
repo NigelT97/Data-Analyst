@@ -8,4 +8,4 @@
   <li>Check for inconsistencies in the data</li>
   <li>Change data types to the right data tpes</li>
 </ul>
-<p>mMain Objective was to have a final data table that can be analyzed</p>
+<p>Main Objective was to have a final data table that can be analyzed</p>
